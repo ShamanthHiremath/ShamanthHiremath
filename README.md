@@ -1,6 +1,6 @@
 <h1 align="center">Hey ya'll, its Shamanth M Hiremath</h1>
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/ShamanthHiremath" alt="Shamanth M Hiremath" width="200" style="border-radius:50%;">
+  <img src="https://avatars.githubusercontent.com/u/ShamanthHiremath" width="200" style="border-radius:50%;">
 </p>
 <h3 align="center">AIML Afficionado || Flutter App Dev | | Critical Analyst | | Computer Affecionate | | Philomath || Quizzer || Class Rep || CSE, MSRIT'26, Bangalore, India</h3>
 
