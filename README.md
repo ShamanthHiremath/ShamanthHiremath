@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hey ya'll!! 👋
+<h1 align="center">👋 Hey ya'll!! 👋<br>
 Shamanth M Hiremath</h1>
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp11132148.jpg" alt="Shamanth M Hiremath" width="600" style="border-radius:50%;">
+  <img src="https://wallpapercave.com/wp/wp11132148.jpg" alt="Shamanth M Hiremath" width="100%" style="border-radius:50%;">
 </p>
 <h3 align="center"> AIML Afficionado || Flutter App Dev | | Critical Analyst | | Computer Affecionate | | Philomath || Quizzer || Class Rep || CSE, MSRIT'26, Bangalore, India</h3>
 
