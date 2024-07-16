@@ -1,12 +1,9 @@
 <h1 align="center">👋 Hey ya'll, its<br>
 Shamanth M Hiremath</h1>
-<h3 align="center">AIML Afficionado || Flutter App Dev || Critical Analyst<br>Computer Affecionate || Philomath || Quizzer || Class Rep <br>CSE MSRIT'26, Bangalore, India</h3>
 <p align="center">
   <img src="https://github.com/ShamanthHiremath/ShamanthHiremath/blob/main/Sparkle.png" alt="Shamanth M Hiremath" width="90%" style="border-radius:50%;">
 </p>
-
-
-
+<h3 align="center">AIML Afficionado || Flutter App Dev || Critical Analyst<br>Computer Affecionate || Philomath || Quizzer || Class Rep <br>CSE MSRIT'26, Bangalore, India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamanthhiremath&label=Profile%20views&color=0e75b6&style=flat" alt="shamanthhiremath" /> </p>
 
 - 🌱 I’m trying to master **Artificial Intelligence and Machine Learning and its charming subsets (GenAI, GANs, Deep Learning)**
