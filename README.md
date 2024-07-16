@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey ya'll, its<br>
 Shamanth M Hiremath</h1>
 <p align="center">
-  <img src="[https://wallpapercave.com/wp/wp11132148.jpg](https://github.com/ShamanthHiremath/ShamanthHiremath/blob/main/Sparkle.png)" alt="Shamanth M Hiremath" width="90%" style="border-radius:50%;">
+  <img src="https://github.com/ShamanthHiremath/ShamanthHiremath/blob/main/Sparkle.png" alt="Shamanth M Hiremath" width="90%" style="border-radius:50%;">
 </p>
 <h3 align="center">AIML Afficionado || Flutter App Dev || Critical Analyst<br>Computer Affecionate || Philomath || Quizzer || Class Rep <br>CSE MSRIT'26, Bangalore, India</h3>
 
