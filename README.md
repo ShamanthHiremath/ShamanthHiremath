@@ -1,9 +1,10 @@
 <h1 align="center">Hey ya'll, its Shamanth M Hiremath</h1>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/ShamanthHiremath" alt="Shamanth M Hiremath" width="200" style="border-radius:50%;">
+</p>
 <h3 align="center">AIML Afficionado || Flutter App Dev | | Critical Analyst | | Computer Affecionate | | Philomath || Quizzer || Class Rep || CSE, MSRIT'26, Bangalore, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamanthhiremath&label=Profile%20views&color=0e75b6&style=flat" alt="shamanthhiremath" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamanthhiremath" alt="shamanthhiremath" /></a> </p>
 
 - 🌱 I’m trying to master **Artificial Intelligence and Machine Learning**
 
