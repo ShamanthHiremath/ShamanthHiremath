@@ -16,7 +16,7 @@
 
 - 🌱 I’m trying to master **Artificial Intelligence and Machine Learning and its charming subsets (GenAI, GANs, Deep Learning)**
 - 💬 Ask me about **AIML, GenAI, Deep Learning, Python, Flutter App Dev, C++, C, etc**
-- 📫 How to reach me? Mail to**shamanth.hiremath.101@gmail.com**
+- 📫 How to reach me? Mail to **shamanth.hiremath.101@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamanthhiremath&label=Profile%20views&color=brightgreen&style=flat&count=10000" alt="shamanthhiremath" /> </p>
 
